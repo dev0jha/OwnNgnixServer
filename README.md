@@ -1,7 +1,7 @@
 # OwnNgnixServer
 
 A simple Node.js static server that mimics basic Nginx-like static serving features.  
-This project serves static HTML files (`index.html`, `about.html`, and `contact.html`) with a minimal Express server.
+This project serves static HTML files (`index.html`, `about.html`, and `contact.html`)<br/> with a minimal Express server.
 
 ---
 
